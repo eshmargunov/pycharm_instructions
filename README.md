@@ -14,15 +14,13 @@ Pycharm — это:
 ## Поиск в коде
 
 1. Двойной Shift — «Поиск везде» по коду.  
-![image](https://user-images.githubusercontent.com/12861849/95024436-ad247300-068b-11eb-9b65-6afb3a657f19.png)
-
-
+![image](https://user-images.githubusercontent.com/12861849/95024741-bc0c2500-068d-11eb-82bb-2fe5347e1313.jpg)
 
 2. Ctrl+Shift+F — поиск по пути.  
-![image](https://user-images.githubusercontent.com/12861849/95024472-d47b4000-068b-11eb-85da-aadb39d5ae94.png)
+![image](https://user-images.githubusercontent.com/12861849/95024761-e5c54c00-068d-11eb-93ee-68a20abdc127.jpg)
 
 3. Замена строки во всём проекте  
-![image](https://user-images.githubusercontent.com/12861849/95024480-e826a680-068b-11eb-84ad-f2dbfbb65393.png)
+![image]((https://user-images.githubusercontent.com/12861849/95024781-01c8ed80-068e-11eb-927a-ba79b0eef62b.jpg)
 
 
 ## Отладчик кода
@@ -31,13 +29,13 @@ Pycharm — это:
 
 1. Чтобы воспользоваться отладчиком, нужно поставить точку остановы(breakpoint) на нужной строке и нажать на кнопку Debug(«жучок»).  
 После этого программа остановится на выбранной строке и будет ждать действия от программиста.  
-![image](https://user-images.githubusercontent.com/12861849/95024501-0f7d7380-068c-11eb-8624-9c746690893e.png)
+![image](https://user-images.githubusercontent.com/12861849/95024801-1b6a3500-068e-11eb-8a76-bb38e8d7b480.jpg)
 
 2. В режиме дебага мы можем посмотреть, что находится в переменных до точки остановы.  
-![image](https://user-images.githubusercontent.com/12861849/95024512-1e642600-068c-11eb-989a-1ae648426518.png)
+![image](https://user-images.githubusercontent.com/12861849/95024830-448ac580-068e-11eb-9621-b5f85a8f75eb.jpg)
 
 3. Выполнить любой код в режиме «evaluate expression».  
-![image](https://user-images.githubusercontent.com/12861849/95024521-291ebb00-068c-11eb-974d-b712ca770cf6.png)
+![image](https://user-images.githubusercontent.com/12861849/95024848-5f5d3a00-068e-11eb-9c06-e0e6d9c33692.jpg)
 
 4. Перемещаться по коду
 
