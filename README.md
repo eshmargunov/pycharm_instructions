@@ -41,10 +41,10 @@ Pycharm — это:
 
 4. Перемещаться по коду
 
- a. ![image](https://user-images.githubusercontent.com/12861849/95024536-45baf300-068c-11eb-9ae2-1d72012d49d7.png) Перейти на следующую строку(f8)
- b. ![image](https://user-images.githubusercontent.com/12861849/95024582-97fc1400-068c-11eb-951a-c8a72ae98cc0.png) Перейти вовнутрь функции, класса, метода.
- c. ![image](https://user-images.githubusercontent.com/12861849/95024587-a4806c80-068c-11eb-90d1-52e76ca0b85e.png) Подняться вверх по коду
- d. ![image](https://user-images.githubusercontent.com/12861849/95024592-ad713e00-068c-11eb-9adb-9a5d16ffe3b7.png) Перейти к курсору.
+ a. ![image](https://user-images.githubusercontent.com/12861849/95024536-45baf300-068c-11eb-9ae2-1d72012d49d7.png) Перейти на следующую строку(f8)  
+ b. ![image](https://user-images.githubusercontent.com/12861849/95024582-97fc1400-068c-11eb-951a-c8a72ae98cc0.png) Перейти вовнутрь функции, класса, метода.  
+ c. ![image](https://user-images.githubusercontent.com/12861849/95024587-a4806c80-068c-11eb-90d1-52e76ca0b85e.png) Подняться вверх по коду  
+ d. ![image](https://user-images.githubusercontent.com/12861849/95024592-ad713e00-068c-11eb-9adb-9a5d16ffe3b7.png) Перейти к курсору.  
  
 5. Чтобы выйти из режима отладки, нужно нажать на Красный квадрат(Stop) или горячие клавиши Ctrl+F2  
 ![image](https://user-images.githubusercontent.com/12861849/95024600-b9f59680-068c-11eb-872e-f1d254d6e99c.png)
