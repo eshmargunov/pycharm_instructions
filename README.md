@@ -14,13 +14,13 @@ Pycharm — это:
 ## Поиск в коде
 
 1. Двойной Shift — «Поиск везде» по коду.  
-![image](https://user-images.githubusercontent.com/12861849/95024741-bc0c2500-068d-11eb-82bb-2fe5347e1313.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025154-8288e900-0690-11eb-88aa-f5e924f4d16a.png)
 
 2. Ctrl+Shift+F — поиск по пути.  
-![image](https://user-images.githubusercontent.com/12861849/95024761-e5c54c00-068d-11eb-93ee-68a20abdc127.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025176-97fe1300-0690-11eb-8ad9-8804893b7a0b.png)
 
 3. Замена строки во всём проекте  
-![image]((https://user-images.githubusercontent.com/12861849/95024781-01c8ed80-068e-11eb-927a-ba79b0eef62b.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025195-acdaa680-0690-11eb-9f6e-777b6400a073.png)
 
 
 ## Отладчик кода
@@ -29,15 +29,16 @@ Pycharm — это:
 
 1. Чтобы воспользоваться отладчиком, нужно поставить точку остановы(breakpoint) на нужной строке и нажать на кнопку Debug(«жучок»).  
 После этого программа остановится на выбранной строке и будет ждать действия от программиста.  
-![image](https://user-images.githubusercontent.com/12861849/95024801-1b6a3500-068e-11eb-8a76-bb38e8d7b480.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025208-c24fd080-0690-11eb-8e9d-e285d5da08c0.png)
 
 2. В режиме дебага мы можем посмотреть, что находится в переменных до точки остановы.  
-![image](https://user-images.githubusercontent.com/12861849/95024830-448ac580-068e-11eb-9621-b5f85a8f75eb.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025217-cf6cbf80-0690-11eb-832f-16bfd095eaa3.png)
 
 3. Выполнить любой код в режиме «evaluate expression».  
-![image](https://user-images.githubusercontent.com/12861849/95024848-5f5d3a00-068e-11eb-9c06-e0e6d9c33692.jpg)
+![image](https://user-images.githubusercontent.com/12861849/95025227-deec0880-0690-11eb-98f0-056b417347e9.png)
 
-4. Перемещаться по коду
+4. Перемещаться по коду  
+![image]https://user-images.githubusercontent.com/12861849/95025236-ef03e800-0690-11eb-8112-26517da18acb.png
 
  a. ![image](https://user-images.githubusercontent.com/12861849/95024536-45baf300-068c-11eb-9ae2-1d72012d49d7.png) Перейти на следующую строку(f8)  
  b. ![image](https://user-images.githubusercontent.com/12861849/95024582-97fc1400-068c-11eb-951a-c8a72ae98cc0.png) Перейти вовнутрь функции, класса, метода.  
@@ -45,7 +46,7 @@ Pycharm — это:
  d. ![image](https://user-images.githubusercontent.com/12861849/95024592-ad713e00-068c-11eb-9adb-9a5d16ffe3b7.png) Перейти к курсору.  
  
 5. Чтобы выйти из режима отладки, нужно нажать на Красный квадрат(Stop) или горячие клавиши Ctrl+F2  
-![image](https://user-images.githubusercontent.com/12861849/95024600-b9f59680-068c-11eb-872e-f1d254d6e99c.png)
+![image](https://user-images.githubusercontent.com/12861849/95025245-fcb96d80-0690-11eb-8463-db178e874753.png)
 
 ## Работа с Git
 Pycharm предоставляет полноценный клиент для работы с системами контроля версий. Если вам неудобно работать с консолью или постоянно переключаться на другую программу для системы контроля версий, то эта функциональность подойдет вам.  
@@ -54,16 +55,16 @@ Pycharm предоставляет полноценный клиент для р
 Там мы можем увидеть:
 - меню слева для работы с git(commit, rollback, show diff и так далее).  
 - в центре все измененные файлы и измененный код.  
-![image](https://user-images.githubusercontent.com/12861849/95024614-d560a180-068c-11eb-9e58-e29b2298ae91.png)
+![image](https://user-images.githubusercontent.com/12861849/95025253-09d65c80-0691-11eb-8d60-111757d4e66a.png)
 
 2. Часть функций по работе с git представлены в верхней панели.  
-![image](https://user-images.githubusercontent.com/12861849/95024618-e1e4fa00-068c-11eb-9726-59baab2fd399.png)
+![image](https://user-images.githubusercontent.com/12861849/95025272-2a9eb200-0691-11eb-9e1c-4429f7aabf8b.png)
 
 3. Настроить свой репозиторий можно в меню VCS  
-![image](https://user-images.githubusercontent.com/12861849/95024627-f0331600-068c-11eb-88be-08112df6407e.png)
+![image](https://user-images.githubusercontent.com/12861849/95025285-3ab69180-0691-11eb-93bf-3ad8dc607051.png)
 
 4. Чтобы настроить работу с ветками(branches) и увидеть в какой ветке мы сейчас находимся, нужно обратить внимание на правый нижний угол.  
-![image](https://user-images.githubusercontent.com/12861849/95024633-f9bc7e00-068c-11eb-891f-cfd0fcf97d79.png)
+![image](https://user-images.githubusercontent.com/12861849/95025293-4609bd00-0691-11eb-94ab-44707ee284cd.png)
 
 ## Итоги
 Мы рассмотрели только 3 популярные возможности работы в Pycharm. На самом деле их намного больше и, возможно, у Вас они будут другими. Не бойтесь нажимать на разные кнопки в Pycharm. Так Вы сможете найти чего вам не хватало при разработке. 
