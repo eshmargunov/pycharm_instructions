@@ -38,7 +38,7 @@ Pycharm — это:
 ![image](https://user-images.githubusercontent.com/12861849/95025227-deec0880-0690-11eb-98f0-056b417347e9.png)
 
 4. Перемещаться по коду  
-![image]https://user-images.githubusercontent.com/12861849/95025236-ef03e800-0690-11eb-8112-26517da18acb.png
+![image](https://user-images.githubusercontent.com/12861849/95025236-ef03e800-0690-11eb-8112-26517da18acb.png)
 
  a. ![image](https://user-images.githubusercontent.com/12861849/95024536-45baf300-068c-11eb-9ae2-1d72012d49d7.png) Перейти на следующую строку(f8)  
  b. ![image](https://user-images.githubusercontent.com/12861849/95024582-97fc1400-068c-11eb-951a-c8a72ae98cc0.png) Перейти вовнутрь функции, класса, метода.  
